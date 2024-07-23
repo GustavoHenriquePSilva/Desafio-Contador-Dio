@@ -46,3 +46,20 @@ public class Contador {
 	}
 }
 ```
+# Código em execução
+
+
+https://github.com/user-attachments/assets/0bec75dc-90ba-4f14-b96c-b2fe8828ad52
+
+
+
+# Ferramentas Utilizadas
+* `Java`
+* `Visual Studio Code`
+
+# Acesse o projeto
+Você pode [acessar o código do projeto aqui.](https://github.com/GustavoHenriquePSilva/Desafio-Contador-Dio/tree/main/desafio-controle-fluxo/src/desafio)
+
+
+# Desenvolvedor 
+[Gustavo Henrique Pereira da Silva](https://github.com/GustavoHenriquePSilva)
